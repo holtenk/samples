@@ -1,2 +1,2 @@
 # samples
-Samples of code
+Samples of souce code from Kai Holen
